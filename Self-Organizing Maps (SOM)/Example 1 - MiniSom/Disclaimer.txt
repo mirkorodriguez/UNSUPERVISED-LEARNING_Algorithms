@@ -1,0 +1,1 @@
+My Python code implementation was for the example that appears on Laurene Fausett's book called "Fundamentals of Neural Networks: Arquitectures, Algorithms and Applications (Pag. 172)."
